@@ -22,6 +22,9 @@ export default function App() {
   return (
     <Container maxWidth="sm">
       <Box my={4}>
+        {/* ↓↓↓↓ problem code */}
+        <Grid></Grid>
+        {/* ↑↑↑↑ problem code */}
         <Typography variant="h4" component="h1" gutterBottom>
           Create React App v4-beta example
         </Typography>
