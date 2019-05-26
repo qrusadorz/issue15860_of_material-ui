@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+# /build
 
 # IDEs and editors
 /.idea
@@ -27,3 +27,10 @@ yarn-debug.log*
 yarn-error.log*
 
 package-lock.json
+
+# google-site-verification
+/public/google*.html
+/build/google*.html
+
+# firebase cache
+/.firebase/*.cache
