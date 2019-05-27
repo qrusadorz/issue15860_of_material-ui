@@ -26,7 +26,7 @@ export default function App() {
         <Grid></Grid>
         {/* ↑↑↑↑ problem code */}
         <Typography variant="h4" component="h1" gutterBottom>
-          Create React App v4-beta example
+          Create React App v4.01 example. include Grid component.
         </Typography>
         <ProTip />
         <MadeWithLove />
